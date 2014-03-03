@@ -1,0 +1,35 @@
+{
+	"header": {
+		"full-name": "Full Name",
+		"headline": "Interaction Designer"
+	},
+
+	"education": {
+		"title": "Digital Arts & Sciences",
+		"dates": "2012-2015",
+		"location": "Gainesville, FL"
+		"institution": "College of Awesomeness"
+		"description": "I was involved in water polo and rugby and was president of student government and also led the TEDx event"
+	},
+
+	"work": {
+		"title": "Graphic Designer",
+		"dates": "2013-2014",
+		"location": "Gainesville, FL"
+		"institution": "HUGE Digital"
+		"description": "I helped lead design of two client projects centered around building diverse marketing materials."
+	},
+
+	"other": {
+		"title": "Volunteer",
+		"dates": "",
+		"location": "Chicago, IL"
+		"institution": "CIW"
+		"description": "I helped lead design of two client projects centered around building diverse marketing materials."
+	},
+
+	"skills": [
+		"group1": ["Photoshop", "Rapid prototyping", "HTML, CSS", "JavaScript"], "group2": ["Illustrator", "Rapid prototyping", "HTML, CSS", "JavaScript"], "group3": ["Axure", "Rapid prototyping", "HTML, CSS", "JavaScript"]
+	]
+
+}
