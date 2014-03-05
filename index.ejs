@@ -27,10 +27,10 @@
 						<p><a href="tel:4107756326"><%= contact.phone %></a></p>
 					</li>
 					<li>
-						<p><a href="mailto:andrewnonumbers@gmail.com?subject=Hey%20I%20saw%20your%20resume%20"><%= contact.email %></a></p>
+						<p><a href="mailto:andrew@ndrw.me?cc=andrewnonumbers@gmail.com&body=Hey%20I%20saw%20your%20resume%20"><%= contact.email %></a></p>
 					</li>
 					<li>
-						<p><a class="lmk-twitter" href="https://twitter.com/_ndrw">Twitter</a></p>
+						<p><a class="lmk-twitter" href="https://twitter.com/_ndrw">@_ndrw</a></p>
 					</li>
 					<li>
 						<p><a class="lmk-linkedin" href="http://www.linkedin.com/in/andrewnonumbers">LinkedIn</a></p>
@@ -76,12 +76,12 @@
 					</div>
 
 					<div class="unit one-of-four left">
-						<h2>Honors &amp; Awards</h2>
+						<h2>Notables</h2>
 					</div>
 					<div class="unit three-of-four">
 						<ul>
 							<% for(var i=0; i<awards.length; i++) {%>
-								<li><%= awards[i] %></li>
+								<li>&#10166; <%= awards[i] %></li>
 							<% } %>
 						</ul>
 					</div>
@@ -106,7 +106,7 @@
 								<li><%= skillsTech[i] %></li>
 						<% } %>
 					</ul>
-					<p><a href="http://space.ndrw.me/#skills">See what I think UX design is</a></p>
+					<p><a href="http://space.ndrw.me/#skills">See what I think UX design is &rsaquo;&rsaquo;</a></p>
 
 					<!--	
 					<h2>Volunteer Experience</h2>
@@ -118,7 +118,25 @@
 					<% } %>
 					-->
 
-					<h2>Fun stuff</h2>
+					<h2>Words people would use to describe me</h2>
+					<ul>
+						<li>thoughtful</li>
+						<li>observant</li>
+						<li>curious</li>
+						<li>technologist</li>
+						<li>optimist</li>
+						<li>meticulous</li>
+						<li>sensing</li>
+						<li>self-driven</li>
+						<li>autodidact</li>
+					</ul>
+
+
+					<h2>Extras</h2>
+					<ul>
+						<li><a href="http://designtox.tumblr.com/"><img class="miniimg" src="designtox.png"></a></li>
+						<li>I curate and write about interface and interaction design at designtox</li>
+					</ul>
 					<ul>
 						<% for(var i=0; i<fun.length; i++) {%>
 							<li><%= fun[i] %></li>

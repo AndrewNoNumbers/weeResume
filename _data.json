@@ -3,12 +3,12 @@
 
     "header": {
       "fullName": "Andrew S. Chen",
-      "headline": "Designer + lifelong learner"
+      "headline": "Always designing + learning"
     },
 
     "contact": {
       "phone": "(410)775-6326",
-      "email": "andrewnonumbers@gmail.com"
+      "email": "andrew@ndrw.me"
     },
 
     "summary": "I'm a designer by nature with a background in technology and startups. I've previously lived in Chicago, New York, Miami, Beijing, Montreal, and Vancouver. I enjoy learning, creating things, thinking about experiences, studying education and psychology, road trips, and biking.",
@@ -123,19 +123,20 @@
     ],
 
 
-    "skillsDesign": ["User experience planning", "User interviews", "Mockups", "Prototyping", "Color, layout, icons", "Lean startup methods"],
+    "skillsDesign": ["User experience planning", "User interviews", "Mockups", "Prototyping", "Color, layout, typography", "Lean methodology"],
 
     "skillsTech": ["HTML5, CSS3", "Git", "CSS grid and frameworks", "Node.js templating", "jQuery, some JavaScript"],
 
 
     "awards": [
-      "1st place, IDEO JumpstART V: Designing Gainesville for 2020", 
+      "1st place, IDEO JumpstART V with Duane Bray", 
       "1st place, Science Hack Day Chicago", 
       "Best Product Demo, Startup Weekend Chicago",
       "2nd place, IMSA Power Pitch at MIT Enterprise Forum",
-      "'DEMOgod' award at DEMO Spring 2012",
-      "Selected by Twilio for DOer Express", 
-      "3rd place, Lincoln Labs hackathon"
+      "Youngest winner of 'DEMOgod' at DEMO Spring 2012",
+      "Selected by Twilio and SendGrid for all-expenses paid trip", 
+      "Once had a conference call with President Obama",
+      "Can type over 100 wpm"
     ],
 
 
@@ -152,9 +153,7 @@
 
 
     "fun": [
-      "I can type over 100 wpm",
-      "I once had a conference call with President Obama",
-      "Things I've done have been featured in VentureBeat, Computerworld, Crain’s Business, Chicago Tribune, Sun-Times Media, GOOD, TechCrunch"
+      "Featured on VentureBeat, Computerworld, Crain’s Business, Chicago Tribune, Sun-Times Media, GOOD, TechCrunch"
     ],
 
 
