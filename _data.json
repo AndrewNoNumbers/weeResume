@@ -1,35 +1,174 @@
 {
-	"header": {
-		"full-name": "Full Name",
-		"headline": "Interaction Designer"
-	},
+  "index": {
 
-	"education": {
-		"title": "Digital Arts & Sciences",
-		"dates": "2012-2015",
-		"location": "Gainesville, FL"
-		"institution": "College of Awesomeness"
-		"description": "I was involved in water polo and rugby and was president of student government and also led the TEDx event"
-	},
+    "header": {
+      "fullName": "Andrew S. Chen",
+      "headline": "Designer-in-Training"
+    },
 
-	"work": {
-		"title": "Graphic Designer",
-		"dates": "2013-2014",
-		"location": "Gainesville, FL"
-		"institution": "HUGE Digital"
-		"description": "I helped lead design of two client projects centered around building diverse marketing materials."
-	},
+    "contact": {
+      "phone": "(410)775-6326",
+      "email": "andrewnonumbers@gmail.com"
+    },
 
-	"other": {
-		"title": "Volunteer",
-		"dates": "",
-		"location": "Chicago, IL"
-		"institution": "CIW"
-		"description": "I helped lead design of two client projects centered around building diverse marketing materials."
-	},
+    "summary": "I'm a ",
 
-	"skills": [
-		"group1": ["Photoshop", "Rapid prototyping", "HTML, CSS", "JavaScript"], "group2": ["Illustrator", "Rapid prototyping", "HTML, CSS", "JavaScript"], "group3": ["Axure", "Rapid prototyping", "HTML, CSS", "JavaScript"]
-	]
+    "education": [
+      {
+        "title": "Additional Education",
+        "dates": " 2013-2014",
+        "location": "",
+        "institution": "",
+        "description": "6 completed courses on Coursera and NovoEd, Lynda member, recipient two-year Treehouse Gold scholarship, design books, workshops at AIGA, Tekserve, Noble Desktop, General Assembly, etc."
+      },
+      {
+        "title": "University of Florida",
+        "dates": "2012-2013",
+        "location": "Gainesville, FL",
+        "institution": "Digital Arts & Sciences, College of Engineering (dropped out)",
+        "description": "1st place team at IDEO JumpstART V, finalist for The HackerHouse startup incubator, volunteer organizer at TEDxUF, volunteer at 3DayStartup and Startup Weekend Gainesville, member of TEC, Software Development Club, Gators for Green Design, The Wildlife Society, and TED Club"
+      },
+      {
+        "title": "Neuqua Valley High School",
+        "dates": "Class of 2012",
+        "location": "Naperville, IL",
+        "institution": "",
+        "description": "ACT 35, AP Scholar w/ Distinction, National Merit Semifinalist, Illinois Innovation Talent, State Finalist in BPA, 1st place regional in WYSE, ΔΕΦ German Honor Society, Environmental Club"
+      },
+      {
+        "title": "Northwestern University CTD",
+        "dates": "Summer 2010",
+        "location": "Evanston, IL",
+        "institution": "Engineering Design",
+        "description": "Collaborated with groups of students from around the country, conducted research and field study, earned an A"
+      }
+    ],
 
+
+    "work": [
+      {
+        "title": "Mobile Interface Design Intern",
+        "dates": "Summer 2013",
+        "location": "Beijing, China",
+        "institution": "Hejia Software",
+        "description": "Pitched design proposals to directors of company, led UX and UI on a redesign of Hejia's mobile ERP client, working with iOS and Android developers to implement on both platforms"
+      },
+      {
+        "title": "Project Breaker",
+        "dates": "Summer 2012",
+        "location": "New York, NY",
+        "institution": "",
+        "description": "Working weekly out of AOL Ventures offices, collaborated in small groups to research, prototype, and test ideas, learning how to rapidly iterate on ideas and get real world feedback to find ways to increase civic engagement in NYC, advised by designers at Qlabs, Google Creative Lab, IDEO, frog design"
+      },
+      {
+        "title": "Co-Founder",
+        "dates": "2012-2013",
+        "location": "Chicago, IL",
+        "institution": "tosigram",
+        "description": "Conducted user research, customer validation, created prototypes and UI for the web app, won a $2000 seed grant from IMSA"
+      },
+      {
+        "title": "Design Helper",
+        "dates": "2011",
+        "location": "Chicago, IL",
+        "institution": "Viatask",
+        "description": "Chosen for SPARK Chicago, helped conduct market research, interviewed users, and created product roadmap, launched at TechWeek 2011"
+      },
+      {
+        "title": "Pilot Tester",
+        "dates": "2011-2012",
+        "location": "",
+        "institution": "Google",
+        "description": "Received Cr-48 prototype laptop and helped with Chrome OS testing prior to release"
+      },
+      {
+        "title": "Business Development Intern",
+        "dates": "Summer 2011",
+        "location": "Chicago, IL",
+        "institution": "Marketing Capitalists",
+        "description": "Assisted with business development and designing web presence for new incubator branch of a marketing firm"
+      },
+      {
+        "title": "Researcher",
+        "dates": "2010-2011",
+        "location": "Naperville, IL",
+        "institution": "ComEd project",
+        "description": "Collaborating with a small team, audited school facilities energy usage and developed plan to reduce computer idle time (IT department accepted plan and helped with implementing), saving school $4,100 a year in electricity"
+      }
+    ],
+
+
+    "other": [
+      {
+        "title": "Volunteer Lab Coordinator",
+        "dates": "Oct 2013",
+        "location": "Chicago, IL",
+        "institution": "Chicago Ideas Week",
+        "description": "As Lab Coordinator, I served as liaison between CIW and labs hosted by Accenture ACIN Lab, DraftFCB's Digital/UX, Northwestern University Knight Lab, and Navy Pier"
+      },
+      {
+        "title": "Volunteer Instructor",
+        "dates": "Jul-Aug 2012",
+        "location": "New York, NY",
+        "institution": "Bike NY",
+        "description": "While living in New York City, I volunteered to help adults learn to bike (using an awesome method pioneered by Bike NY)"
+      },
+      {
+        "title": "Volunteer Teaching Assistant",
+        "dates": "2008-2009",
+        "location": "Lisle, IL",
+        "institution": "Ray Chinese School",
+        "description": ""
+      }
+    ],
+
+
+    "skillsDesign": ["User experience planning", "User interviews", "Mockups", "Prototyping", "Color, layout, icons", "Lean startup methods"],
+
+    "skillsTech": ["HTML5, CSS3", "Git", "CSS grid and frameworks", "Node.js templating", "jQuery, some JavaScript"],
+
+
+    "awards": [
+      "1st place, IDEO JumpstART V: Designing Gainesville for 2020", 
+      "1st place, Science Hack Day Chicago", 
+      "Best Product Demo, Startup Weekend Chicago",
+      "2nd place, IMSA Power Pitch at MIT Enterprise Forum",
+      "'DEMOgod' award at DEMO Spring 2012",
+      "Selected by Twilio for DOer Express", 
+      "3rd place, Lincoln Labs hackathon"
+    ],
+
+
+    "orgs": [
+      "IXDA",
+      "Student member ITA",
+      "CIDD",
+      "On campus:",
+      "Software Development Club",
+      "The Wildlife Society",
+      "Gators for Green Design",
+      "TED Club"
+    ],
+
+
+    "fun": [
+      "I can type over 100 wpm",
+      "Things I've done have been featured in VentureBeat, Computerworld, Crain’s Business, Chicago Tribune, Sun-Times Media, GOOD, TechCrunch",
+      "I once had a conference call with President Obama",
+      "I am learning my fourth language"
+    ],
+
+
+    "featured": [
+      "VentureBeat",
+      "Crain's",
+      "Chicago Tribune",
+      "Sun-Times",
+      "GOOD",
+      "Computerworld",
+      "TechCrunch"
+    ]
+
+  }
 }
+

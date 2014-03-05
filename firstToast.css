@@ -241,11 +241,35 @@ footer {
 }
 
 
-.byline {
-
+.fullname {
+	font-family: 'Lato', Helvetica, sans-serif;
 }
+
+
+.left {
+	margin-left: 0;
+}
+
 
 .entry li {
 	display: inline-block;
-	margin-right: 5px;
+}
+.entry {
+	margin-bottom: 0;
+}
+
+
+.content p {
+	margin-bottom: 40px;
+}
+
+
+.contact-info li {
+	display: inline-block;
+	margin-right: 40px;
+}
+
+.call-widget {
+	margin: 20px 0;
+	text-align: center;
 }
