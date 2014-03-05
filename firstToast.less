@@ -235,14 +235,80 @@ html {
 	$ADDTIONAL ELEMENTS
 \*-----------------------------------*/
 
-footer {
-	margin: 15px 0;
-	text-align: center;
-}
+
+@main: #FFBC49;
 
 
 .fullname {
-	font-family: 'Lato', Helvetica, sans-serif;
+	font-family: 'Arizonia', Helvetica, sans-serif;
+	font-weight: 400;
+	margin-left: 4px;
+}
+
+.byline {
+
+}
+
+h2 {
+	font-weight: 300;
+	text-transform: uppercase;
+	letter-spacing: 0.1rem;
+	font-size: 0.7rem;
+}
+
+
+
+a {
+	color: @main;
+}
+
+.contact-info li a {
+	padding: 3px 8px 4px 8px;
+	border-radius: 20px;
+	text-decoration: none;
+	background-color: @main;
+	color: white;
+	border: 1px solid @main;
+
+}
+.contact-info li a:hover {
+	background-color: white;
+	color: @main;
+}
+.contact-info li {
+	display: inline-block;
+	margin-right: 30px;
+	margin-top: 20px;
+}
+
+
+
+.institution {
+
+}
+.location {
+	font-style: italic;
+}
+
+
+.dates {
+	font-size: 0.7rem;
+
+	border: 1px solid;
+	border-radius: 5px;
+	padding: 4px;
+
+	background-color: black;
+	color: white;	
+
+	letter-spacing: 0.07rem;
+	text-transform: uppercase;
+}
+p {
+	color: #A2A2A2;
+	line-height: 1.5rem;
+	margin-top: 0.2rem;
+
 }
 
 
@@ -250,26 +316,59 @@ footer {
 	margin-left: 0;
 }
 
-
-.entry li {
-	display: inline-block;
+.content p {
+	margin-bottom: 30px;
 }
+
+
 .entry {
 	margin-bottom: 0;
 }
-
-
-.content p {
-	margin-bottom: 40px;
-}
-
-
-.contact-info li {
+.entry li {
 	display: inline-block;
-	margin-right: 40px;
+	margin-right: 3px;
 }
+
+
+.rightbar {
+
+}
+
+
+
+/*.entypo-phone, .lmk-phone {
+	color: #00BB10;
+}
+.entypo-mail, .lmk-mail {	
+	color: #FFC400;
+}
+.entypo-twitter, .lmk-twitter:hover {
+	color: #55ACEE;
+}
+.entypo-linkedin-circled, .lmk-linkedin:hover {
+	color: #0976b4;
+}
+
+
+.contact-info li .lmk-twitter:hover {
+	color: #fff;
+	background-color: #55ACEE;
+	border-color: #55ACEE;
+}
+.contact-info li .lmk-linkedin:hover {
+	color: #fff;
+	background-color: #0976b4;
+	border-color: #0976b4;
+}*/
+
 
 .call-widget {
 	margin: 20px 0;
 	text-align: center;
+}
+
+footer {
+	margin: 15px 0;
+	text-align: center;
+	margin: 40px 0 60px 0;
 }
