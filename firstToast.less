@@ -246,7 +246,7 @@ html {
 \*-----------------------------------*/
 
 
-@main: #FFBC49;
+@main: #FFC83D;
 @gray: #A2A2A2;
 
 .fullname {
@@ -264,6 +264,52 @@ header, .contact-info {
 	text-align: center;
 }
 
+.contact-info {
+	background-color: @main;
+	border-radius: 6px;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+.contact-info li {
+	display: inline-block;
+	margin: 6px 24px 8px 0;
+	height: 21px;
+}
+.contact-info li a {
+	padding: 3px 8px 4px 8px;
+	border-radius: 20px;
+	text-decoration: none;
+	background-color: @main;
+	color: white;
+	border: 1px solid @main;
+
+	font-size: 1rem;
+	letter-spacing: 0.02rem;
+}
+.contact-info li a:hover {
+	background-color: white;
+	color: @main;
+}
+
+
+
+/*header {
+	border-top: 1px dashed #797979;
+	margin-top: 10px;
+	padding-top: 15px;
+}
+.contact-info {
+	border-bottom: 1px dashed #797979;
+	padding-bottom: 10px;
+	margin-bottom: 30px;
+}*/
+
+
+
+
+
+
 
 h2 {
 	font-weight: 300;
@@ -276,27 +322,6 @@ h2 {
 
 a {
 	color: @main;
-}
-
-.contact-info li a {
-	padding: 3px 8px 4px 8px;
-	border-radius: 20px;
-	text-decoration: none;
-	background-color: @main;
-	color: white;
-	border: 1px solid @main;
-
-	font-size: 0.9rem;
-	letter-spacing: 0.04rem;
-}
-.contact-info li a:hover {
-	background-color: white;
-	color: @main;
-}
-.contact-info li {
-	display: inline-block;
-	margin: 0 24px;
-	margin-top: 20px;
 }
 
 
@@ -312,7 +337,7 @@ a {
 .dates {
 	font-size: 0.7rem;
 
-	border: 1px solid;
+	border: 0px solid;
 	border-radius: 5px;
 	padding: 4px;
 
@@ -390,6 +415,8 @@ p {
 
 footer ul {
 	margin-bottom: 0;
+	color: @gray;
+	text-align: center;
 }
 .miniquote {
 	border-top: 1px solid rgba(0,0,0,.1);

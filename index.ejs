@@ -12,7 +12,7 @@
 	<div class="grid">
 
 		<header class="unit span-grid">
-			<h1 class="fullname"><%= public.weeResume._data.index.header.fullName %></h1>
+			<h1 class="fullname"><%= header.fullName %></h1>
 			<h2 class="byline"><%= header.headline %></h2>
 		</header>
 
@@ -31,7 +31,7 @@
 			</li>
 		</ul>
 
-		<div class="unit four-of-five">
+		<div class="unit four-of-five" id="main-body">
 
 			<div class="unit one-of-four left">
 				<h2>About</h2>
@@ -78,6 +78,11 @@
 						<li>&#10166; <%= awards[i] %></li>
 					<% } %>
 				</ul>
+				<ul>
+					<% for(var i=0; i<fun.length; i++) {%>
+						<li><%= fun[i] %></li>
+					<% } %>
+				</ul>
 			</div>
 
 		</div>
@@ -100,19 +105,19 @@
 						<li><%= skillsTech[i] %></li>
 				<% } %>
 			</ul>
-			<p><a href="http://space.ndrw.me/#skills">See what I think UX design is &rsaquo;&rsaquo;</a></p>
+			<!--<p><a href="http://space.ndrw.me/#skills">See what I think UX design is &rsaquo;&rsaquo;</a></p>-->
 
-			<!--	
-			<h2>Volunteer Experience</h2>
-			<% for(var i=0; i<other.length; i++) {%>
-				<ul class="entry">
-					<li class="institution"><h4><%= other[i].institution %></h4></li>
-					<li class="title"><%= other[i].title %></li>
-				</ul>
-			<% } %>
-			-->
+			
+			<ul>
+				<h2>Volunteer Experience</h2>
+				<% for(var i=0; i<other.length; i++) {%>
+						<li class="title"><h4><%= other[i].title %></h4></li>
+						<li class="institution"><%= other[i].institution %></li>
+				<% } %>
+			</ul>
+			
 
-			<h2>Words people would use to describe me</h2>
+			<!--<h2>Words people would use to describe me</h2>
 			<ul>
 				<li>thoughtful</li>
 				<li>observant</li>
@@ -123,18 +128,13 @@
 				<li>sensing</li>
 				<li>self-driven</li>
 				<li>autodidact</li>
-			</ul>
+			</ul>-->
 
 
 			<h2>Extras</h2>
 			<ul>
 				<li><a href="http://designtox.tumblr.com/"><img class="miniimg" src="designtox.png"></a></li>
-				<li>I curate and write about interface and interaction design at designtox</li>
-			</ul>
-			<ul>
-				<% for(var i=0; i<fun.length; i++) {%>
-					<li><%= fun[i] %></li>
-				<% } %>
+				<li>I write about interface &amp; interaction design at designtox</li>
 			</ul>
 
 
@@ -144,8 +144,8 @@
 
 			<footer>
 				<ul>
-					<li>Made with HTML5, Toast grid, LESS, and EJS</li>
-					<li><a href="https://github.com/AndrewNoNumbers/weeResume">See on GitHub</a></li>
+					<li>Made with HTML5, LESS, Toast grid, and EJS</li>
+					<li><a href="https://github.com/AndrewNoNumbers/weeResume">GitHub</a></li>
 				</ul>
 			</footer>
 		</div>

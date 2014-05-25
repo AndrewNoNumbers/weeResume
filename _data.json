@@ -3,7 +3,7 @@
 
     "header": {
       "fullName": "Andrew S. Chen",
-      "headline": "Always designing + always learning"
+      "headline": "Designer of Experiences + Learner for Life"
     },
 
     "contact": {
@@ -11,36 +11,43 @@
       "email": "andrew@ndrw.me"
     },
 
-    "summary": "I'm a designer by nature with a background in technology and startups. I've previously lived in Chicago, New York, Miami, Beijing, Montreal, and Vancouver. I enjoy learning, creating things, thinking about experiences, studying education and psychology, road trips, and biking.",
+    "summary": "I'm a designer with a background in technology and startups. I have very diverse interests, but design is the talent that I contribute to the world. I enjoy learning broadly, making things, and creating better experiences.",
 
     "education": [
       {
         "title": "Additional Education",
-        "dates": " 2013-2014",
+        "dates": " 2013",
         "location": "",
         "institution": "",
-        "description": "6 MOOCs completed from Stanford University, John Hopkins University, University of Toronto, University of Virginia / Lynda member, recipient two-year Treehouse Gold scholarship / design books, workshops at AIGA, Tekserve, Noble Desktop, General Assembly, etc."
+        "description": "6 MOOCs completed from Stanford University, Johns Hopkins University, University of Toronto, University of Virginia / member of Lynda member, recipient of two-year Treehouse Gold scholarship / workshops at AIGA, Tekserve, Noble Desktop, General Assembly, etc."
       },
       {
         "title": "University of Florida",
-        "dates": "2012-2013",
+        "dates": "2012",
         "location": "Gainesville, FL",
-        "institution": "Digital Arts & Sciences, College of Engineering (dropped out)",
-        "description": "1st place team at IDEO JumpstART V, finalist for The HackerHouse startup incubator, volunteer organizer at TEDxUF, volunteer at 3DayStartup and Startup Weekend Gainesville, member of TEC, Software Development Club, Gators for Green Design, The Wildlife Society, and TED Club"
+        "institution": "Digital Arts & Sciences, College of Engineering",
+        "description": "1st place at IDEO JumpstART V / volunteer organizer for TEDxUF / finalist for The HackerHouse startup incubator / volunteer at 3DayStartup and Startup Weekend Gainesville / member of TEC, Software Development Club, Gators for Green Design, The Wildlife Society, and TED Club"
       },
       {
-        "title": "Neuqua Valley High School",
-        "dates": "Class of 2012",
-        "location": "Naperville, IL",
-        "institution": "",
-        "description": "ACT 35, AP Scholar w/ Distinction, National Merit Semifinalist, Illinois Innovation Talent, State Finalist in BPA, 1st place regional in WYSE, ΔΕΦ German Honor Society, Environmental Club"
+        "title": "Project Breaker",
+        "dates": "Summer 2012",
+        "location": "New York, NY",
+        "institution": "Project Breaker",
+        "description": "Worked with TED fellow Juliette LaMontagne Ed.D. on 3-month long project focused on improving civic engagement with technology in NYC through research, prototyping, and iteration, mentored by designers at Qlabs, Google Creative Lab, IDEO, frog design, worked out of AOL Ventures office in NYC"
       },
       {
         "title": "Northwestern University CTD",
         "dates": "2010",
         "location": "Evanston, IL",
         "institution": "Summer Engineering Design",
-        "description": "Collaborated with groups of students from around the country, conducted research and field study, earned an A"
+        "description": "Worked with students from around the country to learn engineering design principles, conducted research and a field study, earning an A"
+      },
+      {
+        "title": "Neuqua Valley High School",
+        "dates": "2008-2012",
+        "location": "Naperville, IL",
+        "institution": "",
+        "description": "ACT composite of 35, AP Scholar w/ Distinction, National Merit, State Finalist in BPA, 1st place regional in WYSE, ΔΕΦ German Honor Society"
       }
     ],
 
@@ -51,70 +58,63 @@
         "dates": "Summer 2013",
         "location": "Beijing, China",
         "institution": "Hejia Software",
-        "description": "Led UX and UI for a complete redesign of Hejia's mobile ERP client, working with iOS and Android developers to implement on both platforms"
+        "description": "Led UX and UI for a full redesign of Hejia's mobile ERP client, working with iOS and Android developers to implement design on both platforms"
       },
       {
-        "title": "Project Breaker",
-        "dates": "Summer 2012",
-        "location": "New York, NY",
-        "institution": "Project Breaker",
-        "description": "Based out of AOL Ventures offices, worked in small groups to research, prototype, and test ideas, learned how to rapidly iterate on ideas and get real world feedback to improve civic engagement in NYC, advised by designers at Qlabs, Google Creative Lab, IDEO, frog design"
-      },
-      {
-        "title": "Co-Founder",
+        "title": "Co-Founder, Designer",
         "dates": "2012-2013",
         "location": "Chicago, IL",
         "institution": "tosigram",
-        "description": "Conducted customer validation, user research, created prototypes and interface for the web app, won a $2000 seed grant from IMSA"
+        "description": "Won a $2000 seed grant from IMSA after presentation at MIT Enterprise Forum, conducted user interviews, data collection, created prototypes and interface for web app"
       },
       {
         "title": "Design Helper",
         "dates": "2011",
         "location": "Chicago, IL",
         "institution": "Viatask",
-        "description": "Helped conduct market research, interviewed users, and created product roadmap, launched at TechWeek 2011"
+        "description": "Assisted with market research, user interviews, product roadmap, and helped with launch at SPARK Chicago"
       },
       {
         "title": "Pilot Tester",
         "dates": "2011-2012",
         "location": "",
         "institution": "Google",
-        "description": "Helped with Chrome OS testing and feature suggestions prior to release, received Cr-48 prototype laptop"
+        "description": "Received Cr-48 prototype laptop from Chrome OS team and helped with testing and submitting bug reports"
       },
       {
-        "title": "Business Development Intern",
+        "title": "Intern",
         "dates": "Summer 2011",
         "location": "Chicago, IL",
         "institution": "Marketing Capitalists",
-        "description": "Assisted with business development and designing web presence for new startup incubator branch of a marketing firm"
+        "description": "The summer before my senior year of high school, I helped a local marketing firm develop an incubator branch to trade equity for marketing services"
       },
       {
         "title": "Researcher",
         "dates": "2010-2011",
         "location": "Naperville, IL",
-        "institution": "ComEd project",
-        "description": "Audited school facilities energy usage and designed plan to reduce computer idle time (IT department accepted plan and helped with implementing), saving school $4,100 a year in electricity"
+        "institution": "ComEd Project",
+        "description": "Partnered with ComEd under Illinois Innovation Talent, audited facilities energy usage and designed plan to reduce computer idle time at my high school with IT department implementation, reducing electricity cost by $4,100 a year"
       }
     ],
 
 
     "other": [
       {
-        "title": "Volunteer Lab Coordinator",
+        "title": "Lab Coordinator",
         "dates": "Oct 2013",
         "location": "Chicago, IL",
         "institution": "Chicago Ideas Week",
         "description": "As Lab Coordinator, I served as liaison between CIW and labs hosted by Accenture ACIN Lab, DraftFCB's Digital/UX, Northwestern University Knight Lab, and Navy Pier"
       },
       {
-        "title": "Volunteer Instructor",
+        "title": "Instructor",
         "dates": "Jul-Aug 2012",
         "location": "New York, NY",
-        "institution": "Bike NY",
+        "institution": "Bike New York",
         "description": "While living in New York City, I volunteered to help adults learn to bike (using an awesome method pioneered by Bike NY)"
       },
       {
-        "title": "Volunteer Teaching Assistant",
+        "title": "Teaching Assistant",
         "dates": "2008-2009",
         "location": "Lisle, IL",
         "institution": "Ray Chinese School",
@@ -123,20 +123,23 @@
     ],
 
 
-    "skillsDesign": ["User experience planning", "User interviews", "Mockups", "Prototyping", "Color, layout, typography", "Lean methodology"],
+    "skillsDesign": ["User experience", "User research", "Mockups", "Prototyping", "Color, layout, typography", "Lean methodology"],
 
-    "skillsTech": ["HTML5, CSS3", "Git", "CSS grid and frameworks", "Node.js templating", "jQuery, some JavaScript"],
+    "skillsTech": ["HTML5, CSS3", "CSS grid and frameworks", "Git", "Node.js templating", "jQuery"],
 
 
     "awards": [
       "1st place, IDEO JumpstART V with Duane Bray", 
-      "1st place, Science Hack Day Chicago", 
+      "1st place, Science Hack Day 2012 Chicago", 
       "Best Product Demo, Startup Weekend Chicago",
       "2nd place, IMSA Power Pitch at MIT Enterprise Forum",
-      "Youngest winner of 'DEMOgod' at DEMO Spring 2012",
+      "Winner of 'DEMOgod' at DEMO Spring 2012",
       "Selected by Twilio and SendGrid for all-expenses paid trip", 
+      "Has been featured on VentureBeat, Computerworld, Crain’s Business, Chicago Tribune, Sun-Times Media, GOOD, TechCrunch",
       "Once had a conference call with President Obama",
-      "Can type over 100 wpm"
+      "Can speak English, Mandarin Chinese, and German",
+      "Can type over 100 wpm",
+      "Canadian (but dual-citizen with the United States)"
     ],
 
 
@@ -153,18 +156,7 @@
 
 
     "fun": [
-      "Featured on VentureBeat, Computerworld, Crain’s Business, Chicago Tribune, Sun-Times Media, GOOD, TechCrunch"
-    ],
-
-
-    "featured": [
-      "VentureBeat",
-      "Crain's",
-      "Chicago Tribune",
-      "Sun-Times",
-      "GOOD",
-      "Computerworld",
-      "TechCrunch"
+      "Ask me for references, or an interview! :)"
     ]
 
   }
