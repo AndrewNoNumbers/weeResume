@@ -15,11 +15,18 @@
 
     "education": [
       {
+        "title": "University of California at Berkeley",
+        "dates": "2014",
+        "location": "Berkeley, CA",
+        "institution": "Summer Semester",
+        "description": "College of Environmental Design, Zero Energy Building, Berkeley Art Studio"
+      },
+      {
         "title": "Additional Education",
-        "dates": " 2013",
+        "dates": "2014",
         "location": "",
         "institution": "",
-        "description": "6 MOOCs completed from Stanford University, Johns Hopkins University, University of Toronto, University of Virginia / member of Lynda member, recipient of two-year Treehouse Gold scholarship / workshops at AIGA, Tekserve, Noble Desktop, General Assembly, etc."
+        "description": "6 MOOCs completed from Stanford University, Johns Hopkins University, University of Toronto, University of Virginia / member of Lynda, recipient of two-year Treehouse Gold scholarship / workshops at AIGA, Tekserve, Noble Desktop, General Assembly, etc."
       },
       {
         "title": "University of Florida",
@@ -30,7 +37,7 @@
       },
       {
         "title": "Project Breaker",
-        "dates": "Summer 2012",
+        "dates": "2012",
         "location": "New York, NY",
         "institution": "Project Breaker",
         "description": "Worked with TED fellow Juliette LaMontagne Ed.D. on 3-month long project focused on improving civic engagement with technology in NYC through research, prototyping, and iteration, mentored by designers at Qlabs, Google Creative Lab, IDEO, frog design, worked out of AOL Ventures office in NYC"
@@ -40,14 +47,14 @@
         "dates": "2010",
         "location": "Evanston, IL",
         "institution": "Summer Engineering Design",
-        "description": "Worked with students from around the country to learn engineering design principles, conducted research and a field study, earning an A"
+        "description": "Worked with students from around the country while learning engineering design principles, conducted field study, earned an A"
       },
       {
         "title": "Neuqua Valley High School",
         "dates": "2008-2012",
         "location": "Naperville, IL",
         "institution": "",
-        "description": "ACT composite of 35, AP Scholar w/ Distinction, National Merit, State Finalist in BPA, 1st place regional in WYSE, ΔΕΦ German Honor Society"
+        "description": "ACT composite of 35, AP Scholar w/ Distinction, National Merit, State Finalist in BPA, Illinois Innovation Talent, ΔΕΦ German Honor Society"
       }
     ],
 
