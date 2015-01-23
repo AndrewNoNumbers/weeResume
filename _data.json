@@ -61,6 +61,13 @@
 
     "work": [
       {
+        "title": "Design Lead",
+        "dates": "2014-2015",
+        "location": "Berkeley, CA",
+        "institution": "TinyTerms",
+        "description": ""
+      },
+      {
         "title": "Mobile Interface Design Intern",
         "dates": "Summer 2013",
         "location": "Beijing, China",
@@ -75,7 +82,7 @@
         "description": "Won a $2000 seed grant from IMSA after presentation at MIT Enterprise Forum, conducted user interviews, data collection, created prototypes and interface for web app"
       },
       {
-        "title": "Design Helper",
+        "title": "Co-Founder, Designer",
         "dates": "2011",
         "location": "Chicago, IL",
         "institution": "Viatask",
@@ -114,7 +121,7 @@
         "description": "As Lab Coordinator, I served as liaison between CIW and labs hosted by Accenture ACIN Lab, DraftFCB's Digital/UX, Northwestern University Knight Lab, and Navy Pier"
       },
       {
-        "title": "Instructor",
+        "title": "Bike Instructor",
         "dates": "Jul-Aug 2012",
         "location": "New York, NY",
         "institution": "Bike New York",
@@ -136,17 +143,18 @@
 
 
     "awards": [
+      "Led project to win Github Judge's Choice at Startup Weekend SF",
       "1st place, IDEO JumpstART V with Duane Bray", 
       "1st place, Science Hack Day 2012 Chicago", 
       "Best Product Demo, Startup Weekend Chicago",
       "2nd place, IMSA Power Pitch at MIT Enterprise Forum",
       "Winner of 'DEMOgod' at DEMO Spring 2012",
-      "Selected by Twilio and SendGrid for all-expenses paid trip", 
+      "Selected by Twilio and SendGrid for DOer Express", 
       "Has been featured on VentureBeat, Computerworld, Crain’s Business, Chicago Tribune, Sun-Times Media, GOOD, TechCrunch",
       "Once had a conference call with President Obama",
       "Can speak English, Mandarin Chinese, and German",
       "Can type over 100 wpm",
-      "Canadian (but dual-citizen with the United States)"
+      "Canadian (but can work in the United States)"
     ],
 
 
