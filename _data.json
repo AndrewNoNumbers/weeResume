@@ -2,8 +2,8 @@
   "index": {
 
     "header": {
-      "fullName": "Andrew S. Chen",
-      "headline": "Product Designer + Learner for Life"
+      "fullName": "Bilius S. Chen",
+      "headline": "There are secrets left in the world."
     },
 
     "contact": {
@@ -11,7 +11,7 @@
       "email": "andrew@ndrw.me"
     },
 
-    "summary": "I'm a designer with a background in technology and startups. I have very diverse interests, but design is the talent that I contribute to the world. I enjoy learning broadly, making things, and creating better experiences.",
+    "summary": "I'm a designer with a background in tech products and startups. I want to change the world, and my best way for doing that is design. I like to learn broadly, make things, and create better experiences.",
 
     "education": [
       {
@@ -26,7 +26,7 @@
         "dates": "2014",
         "location": "",
         "institution": "",
-        "description": "6 MOOCs completed from Stanford University, Johns Hopkins University, University of Toronto, University of Virginia / member of Lynda, recipient of two-year Treehouse Gold scholarship / workshops at AIGA, Tekserve, Noble Desktop, General Assembly, etc."
+        "description": "6 MOOCs completed from Stanford University, Johns Hopkins University, University of Toronto, University of Virginia / member of Lynda, recipient of two-year Treehouse Gold scholarship / workshops at AIGA, Tekserve, Noble Desktop, etc."
       },
       {
         "title": "University of Florida",
@@ -37,7 +37,7 @@
       },
       {
         "title": "Project Breaker",
-        "dates": "2012",
+        "dates": "Summer 2012",
         "location": "New York, NY",
         "institution": "Project Breaker",
         "description": "Worked with TED fellow Juliette LaMontagne Ed.D. on 3-month long project focused on improving civic engagement with technology in NYC through research, prototyping, and iteration, mentored by designers at Qlabs, Google Creative Lab, IDEO, frog design, worked out of AOL Ventures office in NYC"
@@ -47,39 +47,46 @@
         "dates": "2010",
         "location": "Evanston, IL",
         "institution": "Summer Engineering Design",
-        "description": "Worked with students from around the country while learning engineering design principles, conducted field study, earned an A"
+        "description": "Learned engineering design principles, conducted a field study, earned an A"
       },
       {
         "title": "Neuqua Valley High School",
         "dates": "2008-2012",
         "location": "Naperville, IL",
         "institution": "",
-        "description": "ACT composite of 35, AP Scholar w/ Distinction, National Merit, State Finalist in BPA, Illinois Innovation Talent, ΔΕΦ German Honor Society"
+        "description": "ACT composite of 35 (above 99%-ile), AP Scholar w/ Distinction, National Merit, State Finalist in BPA, Illinois Innovation Talent, ΔΕΦ German Honor Society"
       }
     ],
 
 
     "work": [
       {
-        "title": "Design Lead",
+        "title": "Consultant",
+        "dates": "2015",
+        "location": "San Francisco, CA",
+        "institution": "Airbnb",
+        "description": "Working with Asia-Pacific team to improve experience and increase metrics"
+      },
+      {
+        "title": "Co-founder & Design Lead",
         "dates": "2014-2015",
         "location": "Berkeley, CA",
         "institution": "TinyTerms",
-        "description": ""
+        "description": "Led a team of 7, using design to make the legal experience better"
       },
       {
         "title": "Mobile Interface Design Intern",
         "dates": "Summer 2013",
         "location": "Beijing, China",
         "institution": "Hejia Software",
-        "description": "Led UX and UI for a full redesign of Hejia's mobile ERP client, working with iOS and Android developers to implement design on both platforms"
+        "description": "Led UX and UI for a full redesign of Hejia's mobile ERP client, working with iOS and Android developers to implement  on both platforms"
       },
       {
         "title": "Co-Founder, Designer",
         "dates": "2012-2013",
         "location": "Chicago, IL",
         "institution": "tosigram",
-        "description": "Won a $2000 seed grant from IMSA after presentation at MIT Enterprise Forum, conducted user interviews, data collection, created prototypes and interface for web app"
+        "description": "Conducted user interviews, data collection, created prototypes and interface for web app, won a $2000 grant from IMSA after presentation at MIT Enterprise Forum"
       },
       {
         "title": "Co-Founder, Designer",
@@ -103,7 +110,7 @@
         "description": "The summer before my senior year of high school, I helped a local marketing firm develop an incubator branch to trade equity for marketing services"
       },
       {
-        "title": "Researcher",
+        "title": "Research Assistant",
         "dates": "2010-2011",
         "location": "Naperville, IL",
         "institution": "ComEd Project",
@@ -112,27 +119,27 @@
     ],
 
 
-    "other": [
+    "volunteer": [
       {
         "title": "Lab Coordinator",
         "dates": "Oct 2013",
         "location": "Chicago, IL",
         "institution": "Chicago Ideas Week",
-        "description": "As Lab Coordinator, I served as liaison between CIW and labs hosted by Accenture ACIN Lab, DraftFCB's Digital/UX, Northwestern University Knight Lab, and Navy Pier"
+        "description": "As Lab Coordinator, I served as liaison between CIW and labs, helping host labs with Accenture ACIN Lab, DraftFCB's Digital/UX, Northwestern University Knight Lab, and Navy Pier"
       },
       {
         "title": "Bike Instructor",
         "dates": "Jul-Aug 2012",
         "location": "New York, NY",
         "institution": "Bike New York",
-        "description": "While living in New York City, I volunteered to help adults learn to bike (using an awesome method pioneered by Bike NY)"
+        "description": "While living in New York City for Project Breaker, I helped adults learn to bike (using an awesome method pioneered by Bike NY)"
       },
       {
         "title": "Teaching Assistant",
         "dates": "2008-2009",
         "location": "Lisle, IL",
         "institution": "Ray Chinese School",
-        "description": ""
+        "description": "I worked in the classroom and helped students practice & learn the Chinese language"
       }
     ],
 
@@ -143,17 +150,15 @@
 
 
     "awards": [
-      "Led project to win Github Judge's Choice at Startup Weekend SF",
       "1st place, IDEO JumpstART V with Duane Bray", 
-      "1st place, Science Hack Day 2012 Chicago", 
+      "1st place, Science Hack Day Chicago", 
       "Best Product Demo, Startup Weekend Chicago",
-      "2nd place, IMSA Power Pitch at MIT Enterprise Forum",
-      "Winner of 'DEMOgod' at DEMO Spring 2012",
-      "Selected by Twilio and SendGrid for DOer Express", 
-      "Has been featured on VentureBeat, Computerworld, Crain’s Business, Chicago Tribune, Sun-Times Media, GOOD, TechCrunch",
+      "2nd place, $2000 grant, IMSA Power Pitch at MIT Enterprise Forum",
+      "Winner of 'DEMOgod' award at DEMO Spring 2012",
+      "Selected by Twilio and SendGrid for all-expenses paid trip", 
+      "Has been featured on VentureBeat, Computerworld, Crain’s Business, Chicago Tribune, Sun-Times Media, TechCrunch",
       "Once had a conference call with President Obama",
       "Can speak English, Mandarin Chinese, and German",
-      "Can type over 100 wpm",
       "Canadian (but can work in the United States)"
     ],
 
@@ -171,7 +176,7 @@
 
 
     "fun": [
-      "Ask me for references, or an interview! :)"
+      "Ask me for references! :)"
     ]
 
   }

@@ -116,7 +116,6 @@ vertical-align:middle;
 }
 
 .grid {
-	margin-left: -3%;
 	max-width: 105%;
 }
 
@@ -247,6 +246,8 @@ html {
 
 
 @main: #FFC83D;
+@main-lighten: lighten(@main, 20%);
+@main-fade: fade(@main, 20%);
 @gray: #A2A2A2;
 
 .fullname {
@@ -266,6 +267,44 @@ header, .contact-info {
 
 .contact-info {
 	background-color: @main;
+	border-radius: 0px;
+
+	margin-top: 20px;
+	margin-bottom: 40px;
+
+	border-bottom: 4px solid @main-lighten;
+
+	padding: 0 5px 0 0; /*just some padding on the right*/
+}
+
+.contact-info li {
+	display: inline-block;
+	margin: 6px 24px 8px 0;
+	height: 21px;
+}
+.contact-info li a {
+	padding: 3px 8px 4px 8px;
+	border-radius: 20px;
+	text-decoration: underline;
+	background-color: @main;
+	color: white;
+	border: 1px solid @main;
+
+	font-size: 1rem;
+	letter-spacing: 0.02rem;
+
+    transition: color 0.4s, background-color 0.4s, transform 2s;
+}
+.contact-info li a:hover {
+	background-color: white;
+	color: @main;
+}
+
+
+/*backup
+
+.contact-info {
+	background-color: @gray;
 	border-radius: 6px;
 	margin-top: 20px;
 	margin-bottom: 40px;
@@ -280,9 +319,9 @@ header, .contact-info {
 	padding: 3px 8px 4px 8px;
 	border-radius: 20px;
 	text-decoration: none;
-	background-color: @main;
+	background-color: @gray;
 	color: white;
-	border: 1px solid @main;
+	border: 1px solid @gray;
 
 	font-size: 1rem;
 	letter-spacing: 0.02rem;
@@ -291,6 +330,7 @@ header, .contact-info {
 	background-color: white;
 	color: @main;
 }
+*/
 
 
 
@@ -406,6 +446,11 @@ p {
 	background-color: #0976b4;
 	border-color: #0976b4;
 }*/
+
+
+#volunteer-experience .institution {
+	margin-bottom: 6px;
+}
 
 
 .call-widget {
